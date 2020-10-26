@@ -1,3 +1,6 @@
+## EC601 Project 2
+Simon Gilbert: simonsai@bu.edu
+
 ## Guide to implementing ResNet
 
 These ResNets are highly successful image classifiers used for Visual Question Answering VQA. A guide for a local installation is shown below.
