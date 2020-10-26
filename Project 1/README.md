@@ -1,3 +1,7 @@
+## Guide to implementing ResNet
+
+These ResNets are highly successful image classifiers used for Visual Question Answering VQA. A guide for a local installation is shown below.
+
 Follow instructions in https://pytorch.org/hub/pytorch_vision_resnet to download and set up the model
 
     import torch
