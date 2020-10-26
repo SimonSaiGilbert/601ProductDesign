@@ -1,3 +1,6 @@
+## EC601 Project 2
+Simon Gilbert: simonsai@bu.edu
+
 phase1.py runs a function avg_favs_and_sentiment() which prompts the user for a Twitter handle and number of tweets to analyze. 
 It then outputs the average number of favorites over all the tweets as well as the average sentiment score and magnitude.
 
