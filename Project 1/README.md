@@ -1,4 +1,4 @@
-## EC601 Project 2
+## EC601 Project 1
 Simon Gilbert: simonsai@bu.edu
 
 ## Guide to implementing ResNet
