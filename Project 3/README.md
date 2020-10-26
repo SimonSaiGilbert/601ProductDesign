@@ -1,3 +1,6 @@
+## EC601 Project 2
+Simon Gilbert: simonsai@bu.edu
+
 I found two segmentation neural networks and decided to implement both. I did this because the implementations are relatively easy and because I wasn't sure which type of segmentation would be most useful for the term project.
 
 ## Implementing DeepLab Demo
